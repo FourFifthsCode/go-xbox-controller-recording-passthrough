@@ -9,11 +9,12 @@ Use cases:
 ```bash
 sudo apt install -y raspberrypi-kernel-headers
 ```
-2. Clone `github.com/atar-axis/xpadneo` repo
+2. Install [xpadneo](https://github.com/atar-axis/xpadneo) xbox controller driver
 ```bash
+# clone github.com/atar-axis/xpadneo repo
 git clone https://github.com/atar-axis/xpadneo.git
 ```
-3. Run install script to install driver
+3. Install driver
 ```bash
 cd xpadneo
 
