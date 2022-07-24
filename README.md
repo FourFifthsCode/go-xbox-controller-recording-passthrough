@@ -45,3 +45,8 @@ go install github.com/0xcafed00d/joystick/joysticktest@master
 
 $HOME/go/bin/joysticktest
 ```
+
+## Run 
+```bash
+go run cmd/emulate/emulate.go
+```
