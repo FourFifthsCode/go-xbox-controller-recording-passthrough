@@ -9,7 +9,7 @@ Use cases:
 ```bash
 sudo apt install -y raspberrypi-kernel-headers
 ```
-2. Install [xpadneo](https://github.com/atar-axis/xpadneo) xbox controller driver
+2. Get [xpadneo](https://github.com/atar-axis/xpadneo) xbox controller driver
 ```bash
 # clone github.com/atar-axis/xpadneo repo
 git clone https://github.com/atar-axis/xpadneo.git
